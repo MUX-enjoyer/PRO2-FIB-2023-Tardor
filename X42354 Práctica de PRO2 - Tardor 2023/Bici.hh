@@ -1,7 +1,7 @@
 /** @file Bici.hh
     @brief Especificació de la classe Bici
  */
-
+sfkwEASDHFUIAESHGUIEAhfguikae
 #ifndef BICI_HH
 #define BICI_HH
 
